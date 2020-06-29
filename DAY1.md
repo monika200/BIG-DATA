@@ -27,6 +27,7 @@
 ![10](https://user-images.githubusercontent.com/63012770/86061491-83ecb900-ba84-11ea-9565-538435ad7a30.png)
 
 6. VIEW THE CONTENTS OF A FILE IN HDFS.
+
 hdfs dfs -cat test/data.txt
   
 ![12](https://user-images.githubusercontent.com/63012770/86061495-85b67c80-ba84-11ea-9634-bb8dba0608d8.png)

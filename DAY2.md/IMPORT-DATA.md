@@ -1,4 +1,4 @@
-**Lab: Importing RDBMS Data into HDFS **
+** Lab: Importing RDBMS Data into HDFS **
 
 1.Import the Table into HDFS 
 

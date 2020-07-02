@@ -21,6 +21,8 @@ b. Put salarydata.txt into the salarydata directory in HDFS.
 
 ![12 1](https://user-images.githubusercontent.com/63012770/86414190-e641f580-bce0-11ea-9565-8f3f4cbd12e7.PNG)
 
+![Capture3](https://user-images.githubusercontent.com/63012770/86416170-e04f1300-bce6-11ea-8bc8-2916b409559d.PNG)
+
 **b. Verify it worked by viewing the table’s contents from the mysql prompt. The output should look like the following:** 
 
 ![13](https://user-images.githubusercontent.com/63012770/86414196-e7732280-bce0-11ea-8cfc-1d2653a12122.PNG)

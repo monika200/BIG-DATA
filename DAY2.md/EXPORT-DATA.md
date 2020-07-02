@@ -17,9 +17,11 @@ b. Put salarydata.txt into the salarydata directory in HDFS.
 
 **3. Export the Data** 
 
-**a. Run a Sqoop command that exports the salarydata folder in HDFS into the salaries2 table in MySQL. At the end of the MapReduce output, you should see a log event stating that 10,000 records were exported.** 
+**a. Run a Sqoop command that exports the salarydata folder in HDFS into the salaries2 table in MySQL.**
 
 ![12 1](https://user-images.githubusercontent.com/63012770/86414190-e641f580-bce0-11ea-9565-8f3f4cbd12e7.PNG)
+
+At the end of the MapReduce output, you should see a log event stating that 10,000 records were exported.
 
 ![Capture3](https://user-images.githubusercontent.com/63012770/86416170-e04f1300-bce6-11ea-8bc8-2916b409559d.PNG)
 
